@@ -1,2 +1,2 @@
 # UTP
-Projects done for UTP course
+Projects done for UTP course on PJATK
